@@ -1,0 +1,6 @@
+fastapi==0.111.1
+fastapi-cli==0.0.4
+yt-dlp==2024.8.1
+feedgen==1.0.0
+requests==2.32.3
+pillow==10.4.0
